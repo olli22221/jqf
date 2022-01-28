@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jqf-instrument-1.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/instrument/target/jqf-instrument-1.8-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="dependency1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/junit-quickcheck-core-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/asm-commons-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/generics-resolver-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/google_closure.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/antlr-runtime-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/javaruntype-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/picocli-4.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/asm-tree-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/junit-4.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/org.jacoco.report-0.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/ognl-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/junit-quickcheck-generators-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/org.jacoco.core-0.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fuzz/target/dependency/asm-analysis-9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

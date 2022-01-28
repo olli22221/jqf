@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jqf.iml" filepath="$PROJECT_DIR$/.idea/jqf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzz/src/main/main.iml" filepath="$PROJECT_DIR$/fuzz/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instrument/src/main/main1.iml" filepath="$PROJECT_DIR$/instrument/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-plugin/maven-plugin.iml" filepath="$PROJECT_DIR$/maven-plugin/maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instrument/src/test/test.iml" filepath="$PROJECT_DIR$/instrument/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzz/src/test/test1.iml" filepath="$PROJECT_DIR$/fuzz/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
